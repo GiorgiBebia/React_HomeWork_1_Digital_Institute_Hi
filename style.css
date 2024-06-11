@@ -1,0 +1,36 @@
+.hello,
+.name_surname,
+.where{
+    text-align: center;
+}
+
+.name_surname {
+    font-size: 50px;
+}
+
+.where{
+    font-family: serif;
+    color: rgb(80, 56, 56);
+}
+
+.contact_about{
+    display: flex;
+    justify-content: space-between;
+    width: 260px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.contact {
+    background-color: blue;
+    padding: 15px 20px;
+    border-radius: 5px;
+    color: white;
+}
+
+.about{
+    padding: 15px 20px;
+    border-radius: 5px;
+    border: 1px solid blue;
+    color: blue;
+}
